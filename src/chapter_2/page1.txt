@@ -1,0 +1,31 @@
+Git Day 2 Notes:
+
+
+
+Git:
+	a version control system
+
+GitHub:
+
+	platform to host remote repositories
+
+Local repository:
+
+folder to keep track of changes locally, on each device
+
+Remote repository:
+
+folder online that keeps track of changes, but also can have changes of others
+
+un-versioned:
+
+not being kept track of
+
+commit:
+
+saved my changes to my local repository
+
+push:
+
+sending the changes in the local repository to the remote repository
+
