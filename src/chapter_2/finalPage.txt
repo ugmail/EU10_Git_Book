@@ -1,0 +1,13 @@
+
+
+so far we learnerd flow for 
+
+commit --> push
+
+
+and 
+
+
+remote --> local
+
+pull/update
